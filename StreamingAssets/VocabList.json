@@ -1,0 +1,644 @@
+﻿{
+  "vocabularies": [
+    {
+      "vocab": "banan",
+      "translation": "die Banane"
+    },
+    {
+      "vocab": "morela",
+      "translation": "die Aprikose"
+    },
+    {
+      "vocab": "jagoda",
+      "translation": "die Beere"
+    },
+    {
+      "vocab": "plecak",
+      "translation": "der Rucksack"
+    },
+    {
+      "vocab": "kozaki",
+      "translation": "der Stiefel"
+    },
+    {
+      "vocab": "pieluszka",
+      "translation": "die Windel"
+    },
+    {
+      "vocab": "kurtka",
+      "translation": "die Jacke"
+    },
+    {
+      "vocab": "kot",
+      "translation": "die Katze"
+    },
+    {
+      "vocab": "rękawica ",
+      "translation": "der Handschuh"
+    },
+    {
+      "vocab": "pies ",
+      "translation": "der Hund"
+    },
+    {
+      "vocab": "kaczka",
+      "translation": "die Ente"
+    },
+    {
+      "vocab": "lis",
+      "translation": "der Fuchs"
+    },
+    {
+      "vocab": "sowa",
+      "translation": "die Eule"
+    },
+    {
+      "vocab": "owca",
+      "translation": "das Schaf"
+    },
+    {
+      "vocab": "wilk",
+      "translation": "der Wolf"
+    },
+    {
+      "vocab": "kapusta",
+      "translation": "der Kohl"
+    },
+    {
+      "vocab": "marchew",
+      "translation": "die Karotte"
+    },
+    {
+      "vocab": "ogórek",
+      "translation": "die Gurke"
+    },
+    {
+      "vocab": "por",
+      "translation": "der Lauch"
+    },
+    {
+      "vocab": "oliwka",
+      "translation": "die Olive"
+    },
+    {
+      "vocab": "cebula",
+      "translation": "die Zwiebel"
+    },
+    {
+      "vocab": "groszek",
+      "translation": "die Erbse"
+    },
+    {
+      "vocab": "pomidor",
+      "translation": "die Tomate"
+    },
+    {
+      "vocab": "lotnisko",
+      "translation": "der Flughafen"
+    },
+    {
+      "vocab": "miasto",
+      "translation": "die Stadt"
+    },
+    {
+      "vocab": "port",
+      "translation": "der Hafen"
+    },
+    {
+      "vocab": "fontanna",
+      "translation": "der Springbrunnen"
+    },
+    {
+      "vocab": "horyzont",
+      "translation": "die Skyline"
+    },
+    {
+      "vocab": "tunel",
+      "translation": "der Tunnel"
+    },
+    {
+      "vocab": "boczek",
+      "translation": "der Schinken"
+    },
+    {
+      "vocab": "chleb",
+      "translation": "das Brot"
+    },
+    {
+      "vocab": "ciastko",
+      "translation": "der Kuchen"
+    },
+    {
+      "vocab": "czekolada",
+      "translation": "die Schokolade"
+    },
+    {
+      "vocab": "jajko",
+      "translation": "das Ei"
+    },
+    {
+      "vocab": "mięso",
+      "translation": "das Fleisch"
+    },
+    {
+      "vocab": "ziemniak",
+      "translation": "die Kartoffel"
+    },
+    {
+      "vocab": "piwo",
+      "translation": "das Bier"
+    },
+    {
+      "vocab": "kawa",
+      "translation": "der Kaffee"
+    },
+    {
+      "vocab": "mleko",
+      "translation": "die Milch"
+    },
+    {
+      "vocab": "woda",
+      "translation": "das Wasser"
+    },
+    {
+      "vocab": "perkusja",
+      "translation": "das Schlagzeug"
+    },
+    {
+      "vocab": "gitara",
+      "translation": "die Gitarre"
+    },
+    {
+      "vocab": "nuty",
+      "translation": "die Note"
+    },
+    {
+      "vocab": "strumień",
+      "translation": "der Bach"
+    },
+    {
+      "vocab": "pustynia",
+      "translation": "die Wüste"
+    },
+    {
+      "vocab": "pole",
+      "translation": "das Feld"
+    },
+    {
+      "vocab": "las",
+      "translation": "der Wald"
+    },
+    {
+      "vocab": "wyspa",
+      "translation": "die Insel"
+    },
+    {
+      "vocab": "góry",
+      "translation": "das Gebirge"
+    },
+    {
+      "vocab": "sczyt",
+      "translation": "der Gipfel"
+    },
+    {
+      "vocab": "stos",
+      "translation": "der Haufen"
+    },
+    {
+      "vocab": "morze",
+      "translation": "das Meer"
+    },
+    {
+      "vocab": "wulkan",
+      "translation": "der Vulkan"
+    },
+    {
+      "vocab": "dym",
+      "translation": "der Rauch"
+    },
+    {
+      "vocab": "odpady",
+      "translation": "der Müll"
+    },
+    {
+      "vocab": "piwnica",
+      "translation": "der Keller"
+    },
+    {
+      "vocab": "wanna",
+      "translation": "die Badewanne"
+    },
+    {
+      "vocab": "dzwonek",
+      "translation": "die Klingel"
+    },
+    {
+      "vocab": "lada",
+      "translation": "die Theke"
+    },
+    {
+      "vocab": "poduszka",
+      "translation": "das Kissen"
+    },
+    {
+      "vocab": "drzwi",
+      "translation": "die Tür"
+    },
+    {
+      "vocab": "donica",
+      "translation": "der Blumentopf"
+    },
+    {
+      "vocab": "dom",
+      "translation": "das Haus"
+    },
+    {
+      "vocab": "kuchnia",
+      "translation": "die Küche"
+    },
+    {
+      "vocab": "basen",
+      "translation": "der Pool"
+    },
+    {
+      "vocab": "sedes",
+      "translation": "die Toilette"
+    },
+    {
+      "vocab": "okno",
+      "translation": "das Fenster"
+    },
+    {
+      "vocab": "pub",
+      "translation": "die Kneipe"
+    },
+    {
+      "vocab": "kostka",
+      "translation": "der Würfel"
+    },
+    {
+      "vocab": "dyskoteka",
+      "translation": "die Disco"
+    },
+    {
+      "vocab": "wakacje",
+      "translation": "die Ferien"
+    },
+    {
+      "vocab": "restauracja",
+      "translation": "das Restaurant"
+    },
+    {
+      "vocab": "opowiadanie",
+      "translation": "die Geschichte"
+    },
+    {
+      "vocab": "namiot",
+      "translation": "das Zelt"
+    },
+    {
+      "vocab": "urlop",
+      "translation": "der Urlaub"
+    },
+    {
+      "vocab": "dziecko",
+      "translation": "das Kind"
+    },
+    {
+      "vocab": "brat",
+      "translation": "der Bruder"
+    },
+    {
+      "vocab": "rodzina",
+      "translation": "die Familie"
+    },
+    {
+      "vocab": "siostra",
+      "translation": "die Schwester"
+    },
+    {
+      "vocab": "córka",
+      "translation": "die Tochter"
+    },
+    {
+      "vocab": "syn",
+      "translation": "der Sohn"
+    },
+    {
+      "vocab": "biuro",
+      "translation": "das Büro"
+    },
+    {
+      "vocab": "stanowisko",
+      "translation": "der Arbeitsplatz"
+    },
+    {
+      "vocab": "deska",
+      "translation": "das Brett"
+    },
+    {
+      "vocab": "wiadro",
+      "translation": "der Eimer"
+    },
+    {
+      "vocab": "drabina",
+      "translation": "die Leiter"
+    },
+    {
+      "vocab": "magnes",
+      "translation": "der Magnet"
+    },
+    {
+      "vocab": "paleta",
+      "translation": "die Palette"
+    },
+    {
+      "vocab": "kombinerki",
+      "translation": "die Zange"
+    },
+    {
+      "vocab": "lina",
+      "translation": "das Seil"
+    },
+    {
+      "vocab": "śruba",
+      "translation": "die Schraube"
+    },
+    {
+      "vocab": "taczka",
+      "translation": "die Schubkarre"
+    },
+    {
+      "vocab": "rower",
+      "translation": "das Fahrrad"
+    },
+    {
+      "vocab": "samochód",
+      "translation": "das Auto"
+    },
+    {
+      "vocab": "powóz",
+      "translation": "die Kutsche"
+    },
+    {
+      "vocab": "prom",
+      "translation": "die Fähre"
+    },
+    {
+      "vocab": "autostrada",
+      "translation": "die Autobahn"
+    },
+    {
+      "vocab": "mapa",
+      "translation": "die Landkarte"
+    },
+    {
+      "vocab": "motocykl",
+      "translation": "das Motorrad"
+    },
+    {
+      "vocab": "samolot",
+      "translation": "das Flugzeug"
+    },
+    {
+      "vocab": "droga",
+      "translation": "die Straße"
+    },
+    {
+      "vocab": "rondo",
+      "translation": "der Kreisverkehr"
+    },
+    {
+      "vocab": "stacja",
+      "translation": "der Bahnhof"
+    },
+    {
+      "vocab": "korek",
+      "translation": "der Stau"
+    },
+    {
+      "vocab": "pas",
+      "translation": "der Gürtel"
+    },
+    {
+      "vocab": "futro",
+      "translation": "das Fell"
+    },
+    {
+      "vocab": "but",
+      "translation": "der Schuh"
+    },
+    {
+      "vocab": "kreda",
+      "translation": "die Kreide"
+    },
+    {
+      "vocab": "klasa",
+      "translation": "die Klasse"
+    },
+    {
+      "vocab": "lekcja",
+      "translation": "der Unterricht"
+    },
+    {
+      "vocab": "piramida",
+      "translation": "die Pyramide"
+    },
+    {
+      "vocab": "uniwersytet",
+      "translation": "die Universität"
+    },
+    {
+      "vocab": "zatoka",
+      "translation": "die Bucht"
+    },
+    {
+      "vocab": "ogień",
+      "translation": "das Feuer"
+    },
+    {
+      "vocab": "drzewo",
+      "translation": "der Baum"
+    },
+    {
+      "vocab": "fala",
+      "translation": "die Welle"
+    },
+    {
+      "vocab": "fotel",
+      "translation": "der Sessel"
+    },
+    {
+      "vocab": "szafa",
+      "translation": "der Schrank"
+    },
+    {
+      "vocab": "siedzenie",
+      "translation": "der Sitz"
+    },
+    {
+      "vocab": "biurko",
+      "translation": "der Schreibtisch"
+    },
+    {
+      "vocab": "krzesło",
+      "translation": "der Stuhl"
+    },
+    {
+      "vocab": "regał",
+      "translation": "das Regal"
+    },
+    {
+      "vocab": "plecy",
+      "translation": "der Rücken"
+    },
+    {
+      "vocab": "broda",
+      "translation": "der Bart"
+    },
+    {
+      "vocab": "krew",
+      "translation": "das Blut"
+    },
+    {
+      "vocab": "ucho",
+      "translation": "das Ohr"
+    },
+    {
+      "vocab": "oko",
+      "translation": "das Auge"
+    },
+    {
+      "vocab": "palec",
+      "translation": "der Finger"
+    },
+    {
+      "vocab": "stopa",
+      "translation": "der Fuß"
+    },
+    {
+      "vocab": "serce",
+      "translation": "das Herz"
+    },
+    {
+      "vocab": "noga",
+      "translation": "das Bein"
+    },
+    {
+      "vocab": "usta",
+      "translation": "der Mund"
+    },
+    {
+      "vocab": "koc",
+      "translation": "die Decke"
+    },
+    {
+      "vocab": "papieros",
+      "translation": "die Zigarette"
+    },
+    {
+      "vocab": "lalka",
+      "translation": "die Puppe"
+    },
+    {
+      "vocab": "flaga",
+      "translation": "die Flagge"
+    },
+    {
+      "vocab": "okulary",
+      "translation": "die Brille"
+    },
+    {
+      "vocab": "klucz",
+      "translation": "der Schlüssel"
+    },
+    {
+      "vocab": "lustro",
+      "translation": "der Spiegel"
+    },
+    {
+      "vocab": "garnek",
+      "translation": "der Topf"
+    },
+    {
+      "vocab": "parasol",
+      "translation": "der Regenschirm"
+    },
+    {
+      "vocab": "chmura",
+      "translation": "die Wolke"
+    },
+    {
+      "vocab": "śnieg",
+      "translation": "der Schnee"
+    },
+    {
+      "vocab": "szpital",
+      "translation": "das Krankenhaus"
+    },
+    {
+      "vocab": "katar",
+      "translation": "der Schnupfen"
+    },
+    {
+      "vocab": "rana",
+      "translation": "die Verletzung"
+    },
+    {
+      "vocab": "maska",
+      "translation": "der Mundschutz"
+    },
+    {
+      "vocab": "sen",
+      "translation": "der Schlaf"
+    },
+    {
+      "vocab": "zegar",
+      "translation": "die Uhr"
+    },
+    {
+      "vocab": "czas",
+      "translation": "die Zeit"
+    },
+    {
+      "vocab": "rok",
+      "translation": "das Jahr"
+    },
+    {
+      "vocab": "budzik",
+      "translation": "der Wecker"
+    },
+    {
+      "vocab": "list",
+      "translation": "der Brief"
+    },
+    {
+      "vocab": "gazeta",
+      "translation": "die Zeitung"
+    },
+    {
+      "vocab": "znak",
+      "translation": "das Schild"
+    },
+    {
+      "vocab": "kolor",
+      "translation": "die Farbe"
+    },
+    {
+      "vocab": "zapach",
+      "translation": "der Duft"
+    },
+    {
+      "vocab": "naród",
+      "translation": "die Nation"
+    },
+    {
+      "vocab": "piasek",
+      "translation": "der Sand"
+    },
+    {
+      "vocab": "olej",
+      "translation": "das Öl"
+    }
+  ]
+}
